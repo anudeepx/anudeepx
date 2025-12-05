@@ -1,6 +1,6 @@
 <!-- Visitor Badge -->
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0x4nud33p.0x4nud33p" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anudeepx.anudeepx" alt="visitor badge"/>
 </p>
 
 <!-- Typing SVG -->
