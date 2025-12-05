@@ -29,9 +29,9 @@
 
 <p align="left">
   <a href="http://anudheep.xyz/"><img src="https://img.icons8.com/doodle/40/000000/portfolio.png" alt="Portfolio"/></a>
-  <a href="https://leetcode.com/u/0x4nud33p/"><img src="https://img.icons8.com/?size=40&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode"/></a>
-  <a href="https://www.linkedin.com/in/0x4nud33p/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/></a>
-  <a href="https://x.com/0x4nud33p"><img src="https://img.icons8.com/?size=50&id=yoQabS8l0qpr&format=png&color=000000" alt="Twitter"/></a>
-  <a href="https://discord.com/invite/0x4nud33p"><img src="https://img.icons8.com/fluent/42/000000/discord-logo.png" alt="Discord"/></a>
+  <a href="https://leetcode.com/u/anudeepx/"><img src="https://img.icons8.com/?size=40&id=wDGo581Ea5Nf&format=png&color=000000" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/anudeepx/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn"/></a>
+  <a href="https://x.com/anudeepx9"><img src="https://img.icons8.com/?size=50&id=yoQabS8l0qpr&format=png&color=000000" alt="Twitter"/></a>
+  <a href="https://discord.com/invite/anudeepx"><img src="https://img.icons8.com/fluent/42/000000/discord-logo.png" alt="Discord"/></a>
   <a href="mailto:anudeepavula009@gmail.com"><img src="https://img.icons8.com/doodle/38/000000/gmail-new.png" alt="Email"/></a>
 </p>
