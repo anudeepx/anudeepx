@@ -22,7 +22,7 @@
 ### Tools I work with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,rust,typescript,react,tailwind,nodejs,prisma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,rust,java,typescript,react,tailwind,nodejs,prisma" alt="Tech Stack" />
 </p>
 
 ### How to reach me
